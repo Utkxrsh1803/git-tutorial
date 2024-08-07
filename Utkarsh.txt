@@ -12,4 +12,9 @@ new line added by Hashir
 new line added by Utkarsh
 merge conflict line added by Hashir
 adding error line
+
 teri ma ki ankh
+=======
+sahi baat hai
+Teri Maki ankh bahot achi hai
+
