@@ -11,4 +11,4 @@ added 10th line
 new line added by Hashir
 new line added by Utkarsh
 merge conflict line added by Hashir
-hello world
+adding error line
